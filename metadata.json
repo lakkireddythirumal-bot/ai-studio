@@ -1,0 +1,6 @@
+{
+  "name": "Feed Plant Manager",
+  "description": "Comprehensive operations and management system for animal feed manufacturing plants, covering production, raw materials, premix, PP bags, maintenance, spare parts, and MIS reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

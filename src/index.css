@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import "./dashboard.css";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  background-color: #f3f6fb;
+  color: #172033;
+}
